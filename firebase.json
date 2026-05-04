@@ -1,0 +1,17 @@
+{
+  "hosting": {
+    "public": "out",
+    "site": "resume-template-generation",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}

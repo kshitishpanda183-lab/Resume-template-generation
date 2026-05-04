@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "nextjs-resume-8d4e1",
+    "staging": "nextjs-resume-8d4e1"
+  },
+  "targets": {},
+  "etags": {}
+}
